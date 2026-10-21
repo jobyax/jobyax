@@ -20,6 +20,6 @@ J'identifie, j'analyse et je documente les menaces numériques en RDC : vulnéra
 
 ## Compétences et outils
 
-- **Hacking éthique et tests de sécurité** : `Burp Suite` · `Nuclei` · `Nmap` · `ffuf` · `sqlmap` · `Metasploit`
+- **Hacking éthique et tests de sécurité** : `Burp Suite` · `Nmap` · `Nuclei` · `sqlmap` · `Metasploit` · `Wireshark`
 - **Plateforme et environnement** : `Debian` · `Docker` · `Ubuntu` · `Linux` · `GitHub Actions` · `Kubernetes`
 - **Langages** : `Python` · `Bash` · `JavaScript` · `TypeScript` · `SQL` · `Go`
