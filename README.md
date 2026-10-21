@@ -1,5 +1,7 @@
 # Jobyax — Software Security Engineer
 
+[contact@jobyax.blog](mailto:contact@jobyax.blog) · [www.jobyax.blog](https://www.jobyax.blog)
+
 > Mon combat contre la cybercriminalité en RDC.
 
 J'identifie, j'analyse et je documente les menaces numériques en RDC : vulnérabilités applicatives, arnaques et escroqueries. Je préviens les victimes avant qu'elles ne perdent leur argent ou leurs données, et je ne publie que ce qui est vérifiable.
@@ -21,8 +23,3 @@ J'identifie, j'analyse et je documente les menaces numériques en RDC : vulnéra
 - **Hacking éthique et tests de sécurité** : `Burp Suite` · `Nuclei` · `Nmap` · `ffuf` · `sqlmap` · `Metasploit`
 - **Plateforme et environnement** : `Debian` · `Docker` · `Ubuntu` · `Linux` · `GitHub Actions` · `Kubernetes`
 - **Langages** : `Python` · `Bash` · `JavaScript` · `TypeScript` · `SQL` · `Go`
-
-## Contact
-
-- **Email** : [contact@jobyax.blog](mailto:contact@jobyax.blog)
-- **Site** : [www.jobyax.blog](https://www.jobyax.blog)
