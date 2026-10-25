@@ -1,4 +1,4 @@
-# Jobyax — Software Security Engineer
+# JOBYAX — Software Security Engineer
 
 [contact@jobyax.blog](mailto:contact@jobyax.blog) · [www.jobyax.blog](https://www.jobyax.blog)
 
@@ -22,4 +22,4 @@ J'identifie, j'analyse et je documente les menaces numériques en RDC : vulnéra
 
 - **Hacking éthique et tests de sécurité** : `Burp Suite` · `Nmap` · `Nuclei` · `sqlmap` · `Metasploit` · `Wireshark`
 - **Plateforme et environnement** : `Debian` · `Docker` · `Ubuntu` · `Linux` · `GitHub Actions` · `Kubernetes`
-- **Langages** : `Python` · `Bash` · `JavaScript` · `TypeScript` · `SQL` · `Go`
+- **Langages** : `Python` · `Bash` · `SQL` · `PHP` · `JavaScript` · `Go`
